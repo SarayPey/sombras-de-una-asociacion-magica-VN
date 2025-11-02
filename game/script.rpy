@@ -2,7 +2,7 @@
 
 define p10_09   = Character("[Prota]")
 define jacob    = Character("Jacob (10-01)")
-define ra       = Character("ra (10-02)")
+define Naira    = Character("Naira (10-02)")
 define kaede    = Character("Kaede (10-03)")
 define kayne    = Character("Kayne (10-04)")
 define stacy    = Character("Stacy (10-05)")
@@ -121,6 +121,6 @@ label respuesta4:
 
     stuard "En fin, ¿le apetece un recorrido por nuestra asociación?"
 
-    # Finaiza el juego:
+    # Finaliza el juego:
 
     return
