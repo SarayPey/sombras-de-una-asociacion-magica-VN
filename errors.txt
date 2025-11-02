@@ -1,0 +1,22 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 38: python block expects a non-empty block.
+    python:
+           ^
+
+File "game/script.rpy", line 39: expected statement.
+    p10_09 = renpy.input("Ingresa tu nombre", length=32)
+           ^
+
+File "game/script.rpy", line 40: expected statement.
+    p10_09 = p10_09.strip()
+           ^
+
+File "game/script.rpy", line 43: expected statement.
+    p10_09 = "Ty Rei (10-09)"
+           ^
+
+Ren'Py Version: Ren'Py 8.4.1.25072401
+Fri Oct  3 23:18:42 2025
